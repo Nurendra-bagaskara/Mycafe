@@ -309,44 +309,10 @@ padding-top: 1rem;
 /* shoping-chart end*/
 
 footer {
+    text-align: center;
     background-color: #000000;
     color: #fff;
     padding: 1.5rem 5% 1.5rem;
-}
-.footer .container {
-    display: flex;
-}
-.footer .container .col-1{
-    flex: 1 1 25rem;
-    font-weight: 200;
-    padding: 0.5rem;
-}
-.footer .container .col-2{
-    flex: 1 1 35rem;
-}
-.footer .container .row {
-    display: flex;
-}
-.footer .container .row .colm-1 {
-    flex: 1 1 0.5rem;
-}
-.footer .container .row .colm-2 {
-    flex: 1 1 20rem;
-}
-.footer .container .row .colm-1 p{
-    color: #fff;
-    font-size: 0.1px;
-    /* padding: 1rem;   */
-}
-.footer .container .row .colm-1 img{
-    height: 1.5rem;
-    border-radius: 1rem;
-}
-.footer .container .row .colm-2 p{
-    color: #fff;
-    font-size: 15px;
-    padding-bottom: 4px;  
-    /* margin-bottom: 8rem; */
 }
 
 

@@ -150,44 +150,10 @@
          <!-- Shoping cart end -->
 
          <!-- footer -->
-         <footer id="footer" class="footer">
-            <!-- <p>&copy; 2023 Nama Perusahaan. All rights reserved.</p> -->
-            <div class="container">
-                <!-- <div class="row"> -->
-                    <div class="col-1">
-                        <div class="row">
-                            <div class="colm-1">
-                                <img src="img/logo.jpeg" alt="Photo" class="card-img-top" alt="...">
-                                <p href=""><i data-feather="instagram" ></i></p>
-                                <p href=""><i data-feather="phone" ></i></p>
-                                <p href=""><i data-feather="youtube" ></i></p>
-                            </div>
-                            <div class="colm-2">
-                            <p>MyCafe</p>
-                            <p href="">@My_Cafe</p>
-                            <p href="">083291275245</p>
-                            <p href="">MyCafe_</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-1">
-                        <p>contact us</p>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque, quibusdam!</p>
-                    </div>
-                    <div class="col-2">
-                        <!-- <div class="mb-3">
-                            <label for="exampleFormControlInput1" class="form-label">Email address</label>
-                            <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
-                        </div>
-                        <div class="mb-3">
-                            <label for="exampleFormControlTextarea1" class="form-label">Example textarea</label>
-                            <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
-                        </div> -->
-                    </div>
-                <!-- </div> -->
-            </div>
-         </footer>
-         <!-- footer -->
+        <footer id="footer" class="footer">
+            <p>&copy; 2023 Nama Perusahaan. All rights reserved.</p>
+        </footer>
+        <!-- footer -->
 
     <!-- Feather icon -->
     <script>
